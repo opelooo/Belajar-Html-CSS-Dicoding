@@ -1,2 +1,2 @@
 # BelajarHtmlCSSDicoding
-history saya pernah belajar html css
+history saya, belajar html css
