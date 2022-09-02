@@ -1,2 +1,0 @@
-branch
-commit ke 2
